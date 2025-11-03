@@ -71,5 +71,6 @@
   "619213444": { "tagText": "Hero X", "tagColor": [[0.007, 0, 0.141], [0.035, 0.035, 0.474], [0.768, 0.737, 0.129]] },
   "1172470680": { "tagText": "The Eliatrope", "specialer": true, "tagColor": [[0.498, 0.976, 0.980], [0.498, 0.980, 0.827], [0.552, 0.988, 0.713]] },
   "7207821215": { "tagText": "MY SOUL SCREAMS", "specialer": false, "tagColor": [[1,1,1], [1,1,1], [1, 1, 1]] },
-  "123188555": { "tagText": "Golden Child", "specialer": false, "tagColor": [[1, 0.549, 0], [1, 0.705, 0.156], [1, 0.823, 0.274], [1, 0.666, 0]] }
+  "123188555": { "tagText": "Golden Child", "specialer": false, "tagColor": [[1, 0.549, 0], [1, 0.705, 0.156], [1, 0.823, 0.274], [1, 0.666, 0]] },
+  "427576178": { "tagText": "A Star Filled With Hope", "specialer": false, "tagColor": [[0, 97, 255], [255, 255, 255]] }
 }
